@@ -30,8 +30,8 @@ SECRET PHRASE (must appear on the app page): ISOM5160-HW2-SMS
 # Student ID: 21317822
 #
 # GenAI acknowledgment (required if you used GenAI; otherwise write "None"):
-#   - Tools used: YOUR_ANSWER
-#   - How you used them: YOUR_ANSWER
+#   - Tools used: DEEPSEEK
+#   - How you used them: I used DeepSeek primarily for debugging and troubleshooting.
 #
 # Q1. Who is the primary business user of this app?
 #     (one short sentence; e.g., an employee or a security analyst reviewing
