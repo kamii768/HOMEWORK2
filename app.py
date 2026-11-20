@@ -46,6 +46,12 @@ SECRET PHRASE (must appear on the app page): ISOM5160-HW2-SMS
 #     legitimate SMS, such as a bank or one-time code message) versus a
 #     false negative (missing a spam or scam-like message).
 #   YOUR_ANSWER:
+#   In my 100-sample test, the accuracy was 99%. Although 99% is
+#   very high, accuracy alone is not enough for a business to rely on completely
+#   because the cost of errors matters. A false positive (blocking a legitimate 
+#   bank or one-time code SMS) disrupts user experience, while a false negative 
+#   (missing a scam message) could cause financial loss. Therefore, this app 
+#   should be used as a triage aid with human review, not the sole decision-maker.
 #
 # =============================================================================
 
